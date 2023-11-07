@@ -1,5 +1,6 @@
 # My own ignored files
 Draft*.ipynb
+Draft0*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
